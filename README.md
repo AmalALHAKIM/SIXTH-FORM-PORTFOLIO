@@ -25,4 +25,8 @@ Login 2:
   - Username = RaspberryPi
   - Password = 3.14159
 
+In order to run this game, you'll need to either download the file and open it on your desktop, or copy and paste the code found in the Python file into the website below:
+https://www.online-python.com/
+This will allow you to run the code as intended.
+
 Along with this Python page, I have taken time to get accustomed to the Computer Science GCSE by completing self-study and practice papers over the past few months.
