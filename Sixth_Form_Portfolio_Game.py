@@ -16,7 +16,9 @@ while not loggedIn:
         password = input("""Welcome! Please enter your password.
 Password: """)
         
-        if password == validUsers[username]:  #Checks the inputted password
+        if password == validUsers[username]:#Checks the inputted password
+            print("Verifying Identity, please hold...")
+            time.sleep(3) #mimics verification time
             print("Identity verified. Hello,", username)
             loggedIn = True
         else:
@@ -25,7 +27,6 @@ Password: """)
         print("Whoops, I don't have that in my records! Try one of the usernames given.")
 
 print("""
-
 
 Here are your game options!
 1. Amal's Super Complicated Number Guessing GameTM
@@ -138,4 +139,5 @@ When you're pready, Press Enter...
 
 
 #This code has been made using references found online, adjusted to suit the game I wanted to make and the level of experience I have.
+
 
