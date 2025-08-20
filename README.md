@@ -15,9 +15,11 @@ I have incorporated many Python coding skills, including:
 - Time-based programming
 
 When you first open the game, there is a login page. You are required to choose between the 2 usernames and passwords in order to access the rest of the code:
+
 Login 1: 
   - Username = HelloWorld
   - Password = beginnerCoder
+
 Login 2:
   - Username = RaspberryPi
   - Password = 3.14159
