@@ -5,8 +5,6 @@ import time   #These will be downloaded, which will let the games later on work 
 validUsers = {
     "HelloWorld": "beginnerCoder",
     "RaspberryPi": "3.14159",
-    "Amal": "tryingtosurvive",
-    "1":"1"
 }
 print("Hello! Welcome to the Sixth Form Portfolio Game! To begin, please enter your chosen username. ")
 
@@ -140,3 +138,4 @@ When you're pready, Press Enter...
 
 
 #This code has been made using references found online, adjusted to suit the game I wanted to make and the level of experience I have.
+
