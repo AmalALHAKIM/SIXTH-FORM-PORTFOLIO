@@ -1,6 +1,7 @@
 # SIXTH-FORM-PORTFOLIO
+This is my portfolio to prove that I can complete the Level 3 Computer Science A Level, despite not having taken the Computer Science GCSE.
 
-# This is my portfolio to prove that I can complete the Level 3 Computer Science A Level, despite not having taken the Computer Science GCSE.
+
 Attached is a Python file I have coded, which I have created to showcase the skills I have developed through self-study as preparation for the A Level. The game consists of a:
   - Login section
   - Menu  section, leading to the 3 games:
